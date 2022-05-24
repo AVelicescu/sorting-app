@@ -1,0 +1,19 @@
+#container
+{
+    position: absolute;
+    align-content: center;
+    background-color: lightgray;
+    margin: auto;
+    width: 1200px;
+    height: 710px;
+    left: 0;
+    right: 0;
+    top: 30px;
+}
+.element
+{
+    position: absolute;
+    width: 5px;
+    background-color: black;
+    display: inline-block;
+}
